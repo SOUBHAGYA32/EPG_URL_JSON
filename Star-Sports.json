@@ -1,186 +1,185 @@
 {
-    "version": "1.0",
-    "data": {
-      "channel": [
-        {
-          "id": "starsportsnetwork",
-          "name": "Star Sports Network",
-          "logo": "https://example.com/starsports_logo.png",
-          "schedule": [
-            {
-              "start_date_time": "20241203000000",
-              "end_date_time": "20241203010000",
-              "lang": "en",
-              "title": "Midnight Sports Recap",
-              "description": "Highlights and updates from the day in sports.",
-              "start": "2024-12-03 00:00:00",
-              "end": "2024-12-03 01:00:00"
-            },
-            {
-              "start_date_time": "20241203010000",
-              "end_date_time": "20241203020000",
-              "lang": "en",
-              "title": "Classic Matches: Football",
-              "description": "Revisit legendary football matches.",
-              "start": "2024-12-03 01:00:00",
-              "end": "2024-12-03 02:00:00"
-            },
-            {
-              "start_date_time": "20241203020000",
-              "end_date_time": "20241203030000",
-              "lang": "en",
-              "title": "Cricket Legends",
-              "description": "Stories of cricket legends and their achievements.",
-              "start": "2024-12-03 02:00:00",
-              "end": "2024-12-03 03:00:00"
-            },
-            {
-              "start_date_time": "20241203030000",
-              "end_date_time": "20241203050000",
-              "lang": "en",
-              "title": "Live: International Basketball League",
-              "description": "Live coverage of the basketball league.",
-              "start": "2024-12-03 03:00:00",
-              "end": "2024-12-03 05:00:00"
-            },
-            {
-              "start_date_time": "20241203050000",
-              "end_date_time": "20241203060000",
-              "lang": "en",
-              "title": "Morning Fitness",
-              "description": "Start your day with fitness and exercise tips.",
-              "start": "2024-12-03 05:00:00",
-              "end": "2024-12-03 06:00:00"
-            },
-            {
-              "start_date_time": "20241203060000",
-              "end_date_time": "20241203080000",
-              "lang": "en",
-              "title": "Live: Tennis Grand Slam Quarterfinals",
-              "description": "Catch live action from the tennis Grand Slam.",
-              "start": "2024-12-03 06:00:00",
-              "end": "2024-12-03 08:00:00"
-            },
-            {
-              "start_date_time": "20241203080000",
-              "end_date_time": "20241203090000",
-              "lang": "en",
-              "title": "SportsCenter Morning Edition",
-              "description": "Morning highlights and sports news.",
-              "start": "2024-12-03 08:00:00",
-              "end": "2024-12-03 09:00:00"
-            },
-            {
-              "start_date_time": "20241203090000",
-              "end_date_time": "20241203110000",
-              "lang": "en",
-              "title": "Live: Premier League Match",
-              "description": "Exciting live coverage of the Premier League.",
-              "start": "2024-12-03 09:00:00",
-              "end": "2024-12-03 11:00:00"
-            },
-            {
-              "start_date_time": "20241203110000",
-              "end_date_time": "20241203120000",
-              "lang": "en",
-              "title": "Game Changers",
-              "description": "Interviews with athletes changing the game.",
-              "start": "2024-12-03 11:00:00",
-              "end": "2024-12-03 12:00:00"
-            },
-            {
-              "start_date_time": "20241203120000",
-              "end_date_time": "20241203140000",
-              "lang": "en",
-              "title": "Live: Kabaddi World Championship",
-              "description": "Live action from the Kabaddi World Championship.",
-              "start": "2024-12-03 12:00:00",
-              "end": "2024-12-03 14:00:00"
-            },
-            {
-              "start_date_time": "20241203140000",
-              "end_date_time": "20241203143000",
-              "lang": "en",
-              "title": "Sports Flashback",
-              "description": "Relive iconic moments in sports history.",
-              "start": "2024-12-03 14:00:00",
-              "end": "2024-12-03 14:30:00"
-            },
-            {
-              "start_date_time": "20241203143000",
-              "end_date_time": "20241203160000",
-              "lang": "en",
-              "title": "Live: Formula 1 Practice Session",
-              "description": "Watch the practice session ahead of the big race.",
-              "start": "2024-12-03 14:30:00",
-              "end": "2024-12-03 16:00:00"
-            },
-            {
-              "start_date_time": "20241203160000",
-              "end_date_time": "20241203180000",
-              "lang": "en",
-              "title": "Live: Football - International Friendly",
-              "description": "Friendly match between top international teams.",
-              "start": "2024-12-03 16:00:00",
-              "end": "2024-12-03 18:00:00"
-            },
-            {
-              "start_date_time": "20241203180000",
-              "end_date_time": "20241203183000",
-              "lang": "en",
-              "title": "The Analyst Desk",
-              "description": "Expert insights on the latest games.",
-              "start": "2024-12-03 18:00:00",
-              "end": "2024-12-03 18:30:00"
-            },
-            {
-              "start_date_time": "20241203183000",
-              "end_date_time": "20241203193000",
-              "lang": "en",
-              "title": "Live: Hockey League Finals",
-              "description": "Live coverage of the hockey league finals.",
-              "start": "2024-12-03 18:30:00",
-              "end": "2024-12-03 19:30:00"
-            },
-            {
-              "start_date_time": "20241203193000",
-              "end_date_time": "20241203203000",
-              "lang": "en",
-              "title": "Prime Time Analysis",
-              "description": "Breaking down today's sports action.",
-              "start": "2024-12-03 19:30:00",
-              "end": "2024-12-03 20:30:00"
-            },
-            {
-              "start_date_time": "20241203203000",
-              "end_date_time": "20241203223000",
-              "lang": "en",
-              "title": "Live: Cricket - Test Match",
-              "description": "Day 2 of the Test cricket match.",
-              "start": "2024-12-03 20:30:00",
-              "end": "2024-12-03 22:30:00"
-            },
-            {
-              "start_date_time": "20241203223000",
-              "end_date_time": "20241203233000",
-              "lang": "en",
-              "title": "Post-Match Analysis",
-              "description": "Detailed analysis of today's cricket match.",
-              "start": "2024-12-03 22:30:00",
-              "end": "2024-12-03 23:30:00"
-            },
-            {
-                "start_date_time": "20241203233000",
-                "end_date_time": "20241203235900",
-                "lang": "en",
-                "title": "No programs",
-                "description": "",
-                "start": "2024-12-03 23:30:00",
-                "end": "2024-12-03 23:59:00"
-              }
-          ]
-        }
-      ]
-    }
+  "version": "1.0",
+  "data": {
+    "channel": [
+      {
+        "id": "starsportsnetwork",
+        "name": "Star Sports Network",
+        "logo": "https://example.com/starsports_logo.png",
+        "schedule": [
+          {
+            "start_date_time": "20241204000000",
+            "end_date_time": "20241204010000",
+            "lang": "en",
+            "title": "Midnight Sports Recap",
+            "description": "Highlights and updates from the day in sports.",
+            "start": "2024-12-04 00:00:00",
+            "end": "2024-12-04 01:00:00"
+          },
+          {
+            "start_date_time": "20241204010000",
+            "end_date_time": "20241204020000",
+            "lang": "en",
+            "title": "Classic Matches: Football",
+            "description": "Revisit legendary football matches.",
+            "start": "2024-12-04 01:00:00",
+            "end": "2024-12-04 02:00:00"
+          },
+          {
+            "start_date_time": "20241204020000",
+            "end_date_time": "20241204030000",
+            "lang": "en",
+            "title": "Cricket Legends",
+            "description": "Stories of cricket legends and their achievements.",
+            "start": "2024-12-04 02:00:00",
+            "end": "2024-12-04 03:00:00"
+          },
+          {
+            "start_date_time": "20241204030000",
+            "end_date_time": "20241204050000",
+            "lang": "en",
+            "title": "Live: International Basketball League",
+            "description": "Live coverage of the basketball league.",
+            "start": "2024-12-04 03:00:00",
+            "end": "2024-12-04 05:00:00"
+          },
+          {
+            "start_date_time": "20241204050000",
+            "end_date_time": "20241204060000",
+            "lang": "en",
+            "title": "Morning Fitness",
+            "description": "Start your day with fitness and exercise tips.",
+            "start": "2024-12-04 05:00:00",
+            "end": "2024-12-04 06:00:00"
+          },
+          {
+            "start_date_time": "20241204060000",
+            "end_date_time": "20241204080000",
+            "lang": "en",
+            "title": "Live: Tennis Grand Slam Quarterfinals",
+            "description": "Catch live action from the tennis Grand Slam.",
+            "start": "2024-12-04 06:00:00",
+            "end": "2024-12-04 08:00:00"
+          },
+          {
+            "start_date_time": "20241204080000",
+            "end_date_time": "20241204090000",
+            "lang": "en",
+            "title": "SportsCenter Morning Edition",
+            "description": "Morning highlights and sports news.",
+            "start": "2024-12-04 08:00:00",
+            "end": "2024-12-04 09:00:00"
+          },
+          {
+            "start_date_time": "20241204090000",
+            "end_date_time": "20241204110000",
+            "lang": "en",
+            "title": "Live: Premier League Match",
+            "description": "Exciting live coverage of the Premier League.",
+            "start": "2024-12-04 09:00:00",
+            "end": "2024-12-04 11:00:00"
+          },
+          {
+            "start_date_time": "20241204110000",
+            "end_date_time": "20241204120000",
+            "lang": "en",
+            "title": "Game Changers",
+            "description": "Interviews with athletes changing the game.",
+            "start": "2024-12-04 11:00:00",
+            "end": "2024-12-04 12:00:00"
+          },
+          {
+            "start_date_time": "20241204120000",
+            "end_date_time": "20241204140000",
+            "lang": "en",
+            "title": "Live: Kabaddi World Championship",
+            "description": "Live action from the Kabaddi World Championship.",
+            "start": "2024-12-04 12:00:00",
+            "end": "2024-12-04 14:00:00"
+          },
+          {
+            "start_date_time": "20241204140000",
+            "end_date_time": "20241204143000",
+            "lang": "en",
+            "title": "Sports Flashback",
+            "description": "Relive iconic moments in sports history.",
+            "start": "2024-12-04 14:00:00",
+            "end": "2024-12-04 14:30:00"
+          },
+          {
+            "start_date_time": "20241204143000",
+            "end_date_time": "20241204160000",
+            "lang": "en",
+            "title": "Live: Formula 1 Practice Session",
+            "description": "Watch the practice session ahead of the big race.",
+            "start": "2024-12-04 14:30:00",
+            "end": "2024-12-04 16:00:00"
+          },
+          {
+            "start_date_time": "20241204160000",
+            "end_date_time": "20241204180000",
+            "lang": "en",
+            "title": "Live: Football - International Friendly",
+            "description": "Friendly match between top international teams.",
+            "start": "2024-12-04 16:00:00",
+            "end": "2024-12-04 18:00:00"
+          },
+          {
+            "start_date_time": "20241204180000",
+            "end_date_time": "20241204183000",
+            "lang": "en",
+            "title": "The Analyst Desk",
+            "description": "Expert insights on the latest games.",
+            "start": "2024-12-04 18:00:00",
+            "end": "2024-12-04 18:30:00"
+          },
+          {
+            "start_date_time": "20241204183000",
+            "end_date_time": "20241204193000",
+            "lang": "en",
+            "title": "Live: Hockey League Finals",
+            "description": "Live coverage of the hockey league finals.",
+            "start": "2024-12-04 18:30:00",
+            "end": "2024-12-04 19:30:00"
+          },
+          {
+            "start_date_time": "20241204193000",
+            "end_date_time": "20241204203000",
+            "lang": "en",
+            "title": "Prime Time Analysis",
+            "description": "Breaking down today's sports action.",
+            "start": "2024-12-04 19:30:00",
+            "end": "2024-12-04 20:30:00"
+          },
+          {
+            "start_date_time": "20241204203000",
+            "end_date_time": "20241204223000",
+            "lang": "en",
+            "title": "Live: Cricket - Test Match",
+            "description": "Day 2 of the Test cricket match.",
+            "start": "2024-12-04 20:30:00",
+            "end": "2024-12-04 22:30:00"
+          },
+          {
+            "start_date_time": "20241204223000",
+            "end_date_time": "20241204233000",
+            "lang": "en",
+            "title": "Post-Match Analysis",
+            "description": "Detailed analysis of today's cricket match.",
+            "start": "2024-12-04 22:30:00",
+            "end": "2024-12-04 23:30:00"
+          },
+          {
+            "start_date_time": "20241204233000",
+            "end_date_time": "20241204235900",
+            "lang": "en",
+            "title": "No programs",
+            "description": "",
+            "start": "2024-12-04 23:30:00",
+            "end": "2024-12-04 23:59:00"
+          }
+        ]
+      }
+    ]
   }
-  
+}
