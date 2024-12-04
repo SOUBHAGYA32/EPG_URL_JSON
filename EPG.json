@@ -1,0 +1,176 @@
+{
+    "version": "1.0",
+    "data": {
+        "channel": [
+            {
+                "id": "sample_channel_id",
+                "name": "Sample Channel",
+                "logo": "https://example.com/sample_logo.png",
+                "schedule": [
+                    {
+                        "start_date_time": "20241127000000",
+                        "end_date_time": "20241127003000",
+                        "lang": "en",
+                        "title": "Morning Yoga",
+                        "description": "Start your day with a refreshing yoga session.",
+                        "start": "2024-11-27 00:00:00",
+                        "end": "2024-11-27 00:30:00"
+                    },
+                    {
+                        "start_date_time": "20241127003000",
+                        "end_date_time": "20241127013000",
+                        "lang": "en",
+                        "title": "Daily News",
+                        "description": "Catch up on the latest news around the world.",
+                        "start": "2024-11-27 00:30:00",
+                        "end": "2024-11-27 01:30:00"
+                    },
+                    {
+                        "start_date_time": "20241127013000",
+                        "end_date_time": "20241127030000",
+                        "lang": "en",
+                        "title": "Movie: The Adventurer",
+                        "description": "An action-packed journey of a daring hero.",
+                        "start": "2024-11-27 01:30:00",
+                        "end": "2024-11-27 03:00:00"
+                    },
+                    {
+                        "start_date_time": "20241127030000",
+                        "end_date_time": "20241127040000",
+                        "lang": "en",
+                        "title": "Late Night Show",
+                        "description": "Comedy and entertainment to end your day.",
+                        "start": "2024-11-27 03:00:00",
+                        "end": "2024-11-27 04:00:00"
+                    },
+                    {
+                        "start_date_time": "20241127040000",
+                        "end_date_time": "20241127043000",
+                        "lang": "en",
+                        "title": "Music Hour",
+                        "description": "Relax with an hour of soothing music.",
+                        "start": "2024-11-27 04:00:00",
+                        "end": "2024-11-27 04:30:00"
+                    },
+                    {
+                        "start_date_time": "20241127043000",
+                        "end_date_time": "20241127060000",
+                        "lang": "en",
+                        "title": "Travel Diaries",
+                        "description": "Explore breathtaking destinations.",
+                        "start": "2024-11-27 04:30:00",
+                        "end": "2024-11-27 06:00:00"
+                    },
+                    {
+                        "start_date_time": "20241127060000",
+                        "end_date_time": "20241127080000",
+                        "lang": "en",
+                        "title": "Morning Special: Cooking Show",
+                        "description": "Delicious recipes to start your day.",
+                        "start": "2024-11-27 06:00:00",
+                        "end": "2024-11-27 08:00:00"
+                    },
+                    {
+                        "start_date_time": "20241127080000",
+                        "end_date_time": "20241127090000",
+                        "lang": "en",
+                        "title": "Kids Hour: Cartoons",
+                        "description": "Fun and educational shows for kids.",
+                        "start": "2024-11-27 08:00:00",
+                        "end": "2024-11-27 09:00:00"
+                    },
+                    {
+                        "start_date_time": "20241127090000",
+                        "end_date_time": "20241127110000",
+                        "lang": "en",
+                        "title": "Sports Highlights",
+                        "description": "Highlights from the latest sports events.",
+                        "start": "2024-11-27 09:00:00",
+                        "end": "2024-11-27 11:00:00"
+                    },
+                    {
+                        "start_date_time": "20241127110000",
+                        "end_date_time": "20241127120000",
+                        "lang": "en",
+                        "title": "Documentary: Nature's Wonders",
+                        "description": "Explore the beauty of the natural world.",
+                        "start": "2024-11-27 11:00:00",
+                        "end": "2024-11-27 12:00:00"
+                    },
+                    {
+                        "start_date_time": "20241127120000",
+                        "end_date_time": "20241127130000",
+                        "lang": "en",
+                        "title": "News at Noon",
+                        "description": "Midday news updates.",
+                        "start": "2024-11-27 12:00:00",
+                        "end": "2024-11-27 13:00:00"
+                    },
+                    {
+                        "start_date_time": "20241127130000",
+                        "end_date_time": "20241127150000",
+                        "lang": "en",
+                        "title": "Talk Show: The Round Table",
+                        "description": "Engaging discussions with industry experts.",
+                        "start": "2024-11-27 13:00:00",
+                        "end": "2024-11-27 15:00:00"
+                    },
+                    {
+                        "start_date_time": "20241127150000",
+                        "end_date_time": "20241127170000",
+                        "lang": "en",
+                        "title": "Afternoon Movie: Love & Adventure",
+                        "description": "A romantic tale of love and exploration.",
+                        "start": "2024-11-27 15:00:00",
+                        "end": "2024-11-27 17:00:00"
+                    },
+                    {
+                        "start_date_time": "20241127170000",
+                        "end_date_time": "20241127180000",
+                        "lang": "en",
+                        "title": "Evening News",
+                        "description": "Updates from around the globe.",
+                        "start": "2024-11-27 17:00:00",
+                        "end": "2024-11-27 18:00:00"
+                    },
+                    {
+                        "start_date_time": "20241127180000",
+                        "end_date_time": "20241127200000",
+                        "lang": "en",
+                        "title": "Reality Show: Survivor's Quest",
+                        "description": "Watch contestants face thrilling challenges.",
+                        "start": "2024-11-27 18:00:00",
+                        "end": "2024-11-27 20:00:00"
+                    },
+                    {
+                        "start_date_time": "20241127200000",
+                        "end_date_time": "20241127220000",
+                        "lang": "en",
+                        "title": "Prime Time Movie: Galactic Heroes",
+                        "description": "An intergalactic adventure of epic proportions.",
+                        "start": "2024-11-27 20:00:00",
+                        "end": "2024-11-27 22:00:00"
+                    },
+                    {
+                        "start_date_time": "20241127220000",
+                        "end_date_time": "20241127230000",
+                        "lang": "en",
+                        "title": "Late Night News",
+                        "description": "Wrap up the day with the latest headlines.",
+                        "start": "2024-11-27 22:00:00",
+                        "end": "2024-11-27 23:00:00"
+                    },
+                    {
+                        "start_date_time": "20241127230000",
+                        "end_date_time": "20241127235959",
+                        "lang": "en",
+                        "title": "Midnight Chill: Music Videos",
+                        "description": "Relax with a selection of music videos.",
+                        "start": "2024-11-27 23:00:00",
+                        "end": "2024-11-27 23:59:59"
+                    }
+                ]
+            }
+        ]
+    }
+}

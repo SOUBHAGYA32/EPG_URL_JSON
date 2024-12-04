@@ -1,0 +1,75 @@
+{
+    "code": 200,
+    "status": "SUCCESS",
+    "message": "Fetched Successfully",
+    "data": {
+        "categoryContentList": {
+            "categories": [
+                {
+                    "category_uuid": "395e80b85a7e4849987d7b4ea063632c",
+                    "category_name": "Live TV",
+                    "category_content_list": {
+                        "page_info": {
+                            "total_count": 5
+                        },
+                        "content_list": [
+                            {
+                                "content_epg_details": {
+                                    "epg_url_xml": "",
+                                    "epg_url_json": "https:\/\/apigateway-staging.muvistaging.com\/playout\/epgjson?cdata=NzcxOEY0Njc3MkE1NDgxOUFFMTkxNDdCQ0U5RDNENkI=_NU0xa1dCRUFKcXh5MmJtYm5SVk5aVTlSa3FGajBjbVM=_38ea273c889895aee5cb838a2fcd0d13"
+                                },
+                                "categories": [
+                                    {
+                                        "category_name": "Live TV"
+                                    }
+                                ],
+                                "video_details": null,
+                                "structure_uuid": null,
+                                "content_uuid": "ed67ed25155b480085dfc2cb29abf44b",
+                                "content_name": "Sony Entertainment",
+                                "root_parent_uuid": "ed67ed25155b480085dfc2cb29abf44b",
+                                "path": null,
+                                "content_desc": "",
+                                "content_permalink": "sony-entertainment",
+                                "content_search_tag": "",
+                                "content_category_uuid": "395e80b85a7e4849987d7b4ea063632c",
+                                "content_template_uuid": "63e2a4f76c0a4915814a93bcd897f40d",
+                                "content_parent_uuid": null,
+                                "content_asset_type": 1,
+                                "content_asset_uuid": "",
+                                "content_trailer_uuid": "",
+                                "content_poster_uuid": "",
+                                "content_banner_uuid": "",
+                                "content_app_poster_uuid": null,
+                                "store_key": "FF65EB3452404E49A5228CCE5FC90D65",
+                                "app_token": "LhOvpm3DVIqnFf99TC9ijZxWoa6P9Iuw",
+                                "product_key": "3D28C83C85544F0D9517DD2E7C7EEDAA",
+                                "content_user_uuid": null,
+                                "content_accessibility": null,
+                                "is_parent": 0,
+                                "content_level": 0,
+                                "tags": null,
+                                "posters": {
+                                    "website": null,
+                                    "mobile_apps": null,
+                                    "tv_apps": [
+                                        {
+                                            "file_uuid": "60078332e84b4e1580a597c0745e043e",
+                                            "file_name": "sony-enter-118-1731929123108.png",
+                                            "file_url": "https:\/\/d250n7duzgh7t2.cloudfront.net\/LhOvpm3DVIqnFf99TC9ijZxWoa6P9Iuw\/3D28C83C85544F0D9517DD2E7C7EEDAA\/il\/60078332e84b4e1580a597c0745e043e\/5a7449b89f5142e59e1261b84b9a36f1\/tvposters\/sony-enter-118-1731929123108.png"
+                                        }
+                                    ]
+                                },
+                                "banners": {
+                                    "website": null,
+                                    "mobile_apps": null,
+                                    "tv_apps": null
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}

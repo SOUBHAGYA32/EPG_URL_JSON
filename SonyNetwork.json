@@ -1,0 +1,95 @@
+{
+    "version": "1.0",
+    "data": {
+      "channel": [
+        {
+          "id": "abf4f1a41aba39ecfccc96b2e74165b2",
+          "name": "Sony Sports Network",
+          "logo": "https://d250n7duzgh7t2.cloudfront.net/LhOvpm3DVIqnFf99TC9ijZxWoa6P9Iuw/7718F46772A54819AE19147BCE9D3D6B/tg/New_Project__2_-1732539012287.png",
+          "schedule": [
+            {
+              "start_date_time": "20241125000000",
+              "end_date_time": "20241125125354",
+              "lang": "en",
+              "title": "No programs",
+              "description": "",
+              "start": "2024-11-25 00:00:00",
+              "end": "2024-11-25 12:53:54"
+            },
+            {
+              "start_date_time": "20241125125355",
+              "end_date_time": "20241125125427",
+              "lang": "en",
+              "title": "Big Buck Bunny",
+              "description": "Lorem imoojhgg yhbbn",
+              "start": "2024-11-25 12:53:55",
+              "end": "2024-11-25 12:54:27"
+            },
+            {
+              "start_date_time": "20241125125428",
+              "end_date_time": "20241125235959",
+              "lang": "en",
+              "title": "No programs",
+              "description": "",
+              "start": "2024-11-25 12:54:28",
+              "end": "2024-11-25 23:59:59"
+            },
+            {
+              "start_date_time": "20241126000000",
+              "end_date_time": "20241126235959",
+              "lang": "en",
+              "title": "No programs",
+              "description": "",
+              "start": "2024-11-26 00:00:00",
+              "end": "2024-11-26 23:59:59"
+            },
+            {
+              "start_date_time": "20241127000000",
+              "end_date_time": "20241127235959",
+              "lang": "en",
+              "title": "No programs",
+              "description": "",
+              "start": "2024-11-27 00:00:00",
+              "end": "2024-11-27 23:59:59"
+            },
+            {
+              "start_date_time": "20241128000000",
+              "end_date_time": "20241128235959",
+              "lang": "en",
+              "title": "No programs",
+              "description": "",
+              "start": "2024-11-28 00:00:00",
+              "end": "2024-11-28 23:59:59"
+            },
+            {
+              "start_date_time": "20241129000000",
+              "end_date_time": "20241129235959",
+              "lang": "en",
+              "title": "No programs",
+              "description": "",
+              "start": "2024-11-29 00:00:00",
+              "end": "2024-11-29 23:59:59"
+            },
+            {
+              "start_date_time": "20241130000000",
+              "end_date_time": "20241130235959",
+              "lang": "en",
+              "title": "No programs",
+              "description": "",
+              "start": "2024-11-30 00:00:00",
+              "end": "2024-11-30 23:59:59"
+            },
+            {
+              "start_date_time": "20241201000000",
+              "end_date_time": "20241201235959",
+              "lang": "en",
+              "title": "No programs",
+              "description": "",
+              "start": "2024-12-01 00:00:00",
+              "end": "2024-12-01 23:59:59"
+            }
+          ]
+        }
+      ]
+    }
+  }

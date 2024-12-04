@@ -1,0 +1,149 @@
+{
+    "code" : 200,
+    "status" : "SUCCESS",
+    "message" : "Fetched Successfully",
+    "data" : {
+      "contentList" : {
+        "content_list" : [
+          {
+            "video_details" : null,
+            "user_type" : "ROLE_ADMIN",
+            "content_level" : 0,
+            "content_parent_uuid" : null,
+            "product_key" : "3D28C83C85544F0D9517DD2E7C7EEDAA",
+            "is_playlist" : 0,
+            "child_content" : [
+              {
+                "video_details" : {
+                  "encoding_profile_uuid" : "0414b2d8897b4202dfb8ab8e14dd00d3",
+                  "original_file_name" : "FTP2_1.mp4",
+                  "video_uuid" : "ebedf4e29b0f488989598420d1b90493",
+                  "file_url" : "https:\/\/d1gb4r1h64ji8f.cloudfront.net\/zdJ5RReYAnZVx9jxTOOtpLwzJBgK4WWx\/3D28C83C85544F0D9517DD2E7C7EEDAA\/vl\/ebedf4e29b0f488989598420d1b90493\/FTP2-1732270294877.mp4",
+                  "file_name" : "FTP2-1732270294877.mp4",
+                  "duration" : "00:01:21",
+                  "is_feed" : false
+                },
+                "user_type" : "ROLE_ADMIN",
+                "content_level" : 1,
+                "content_tvapp_banner_uuid" : null,
+                "content_parent_uuid" : "6968a5962e55422ba0c617709c137b45",
+                "is_playlist" : 0,
+                "content_tvapp_poster_uuid" : null,
+                "child_content" : null,
+                "no_of_child_content" : 0,
+                "content_asset_type" : 1,
+                "structure_uuid" : "96791c1405bd4f84bdfb3539aaf44c7a",
+                "content_trailer_uuid" : "fef46bab6ae840278851ef530c1b07be",
+                "content_desc" : "",
+                "content_search_tag" : "",
+                "content_banner_uuid" : "",
+                "content_poster_uuid" : "",
+                "content_mobileapp_banner_uuid" : null,
+                "content_created_by" : "1e340d7b161749c59cde5edfa4679144",
+                "cast_details" : null,
+                "content_category_uuid" : "6f772e0d07c84e819fd75155d4722655",
+                "content_template_uuid" : "d51eba249fbe47abac8aab09dc24d32d",
+                "content_sub_category_uuid" : "",
+                "total_likes_count" : 0,
+                "content_id" : "EPIS94330757",
+                "content_name" : "EpisodeQA test2",
+                "banners" : {
+                  "website" : null,
+                  "tv_apps" : null,
+                  "mobile_apps" : null
+                },
+                "content_uuid" : "c46e83c895964a7a8901c4e20199a104",
+                "content_permalink" : "episodeqa-test2",
+                "categories" : [
+                  {
+                    "sub_category" : null,
+                    "category_name" : "Clinical",
+                    "category_parent_uuid" : "0",
+                    "category_uuid" : "6f772e0d07c84e819fd75155d4722655"
+                  }
+                ],
+                "content_status" : 2,
+                "posters" : {
+                  "website" : null,
+                  "mobile_apps" : null
+                },
+                "content_mobileapp_poster_uuid" : null,
+                "content_asset_uuid" : "ebedf4e29b0f488989598420d1b90493",
+                "custom_field_data" : null,
+                "trailer_details" : {
+                  "file_name" : "FTP2-1732270280835.mp4",
+                  "original_file_name" : "FTP2.mp4",
+                  "file_url" : "https:\/\/d1gb4r1h64ji8f.cloudfront.net\/zdJ5RReYAnZVx9jxTOOtpLwzJBgK4WWx\/3D28C83C85544F0D9517DD2E7C7EEDAA\/vl\/fef46bab6ae840278851ef530c1b07be\/FTP2-1732270280835.mp4"
+                },
+                "is_parent" : 0
+              }
+            ],
+            "no_of_child_content" : 2,
+            "content_asset_type" : 1,
+            "structure_uuid" : "96791c1405bd4f84bdfb3539aaf44c7a",
+            "path" : null,
+            "content_desc" : "Test from QA end update",
+            "content_search_tag" : "#qa,#test",
+            "level_one_count" : 2,
+            "content_created_by" : "1e340d7b161749c59cde5edfa4679144",
+            "cast_details" : null,
+            "total_likes_count" : 0,
+            "content_name" : "Test QA update",
+            "content_id" : "TEST38698110",
+            "is_encoded" : 0,
+            "content_created_date" : "2024-11-21 13:16:11.31603",
+            "banners" : {
+              "website" : [
+                {
+                  "file_uuid" : "8bc5088a0416481e87a44dca1f46acb3",
+                  "file_url" : "https:\/\/d1gb4r1h64ji8f.cloudfront.net\/zdJ5RReYAnZVx9jxTOOtpLwzJBgK4WWx\/3D28C83C85544F0D9517DD2E7C7EEDAA\/il\/8bc5088a0416481e87a44dca1f46acb3\/8c30533fc4e94bff9e9cd16d9d1f0cd8\/webbanners\/High_resolution_wallpaper_background_ID_77701311457-1732194909902.jpg",
+                  "file_name" : "High_resolution_wallpaper_background_ID_77701311457-1732194909902.jpg"
+                }
+              ],
+              "tv_apps" : [
+                {
+                  "file_uuid" : "23b15e19779c4cddbd523a68893d8d46",
+                  "file_url" : "https:\/\/d1gb4r1h64ji8f.cloudfront.net\/zdJ5RReYAnZVx9jxTOOtpLwzJBgK4WWx\/3D28C83C85544F0D9517DD2E7C7EEDAA\/il\/23b15e19779c4cddbd523a68893d8d46\/c42f3ae7df844a2487a93566d9e54090\/tvbanners\/High_resolution_wallpaper_background_ID_77701311457-1732194941109.jpg",
+                  "file_name" : "High_resolution_wallpaper_background_ID_77701311457-1732194941109.jpg"
+                }
+              ],
+              "mobile_apps" : [
+                {
+                  "file_uuid" : "b1bae9a5cd964e76bc91aa552f9744b5",
+                  "file_url" : "https:\/\/d1gb4r1h64ji8f.cloudfront.net\/zdJ5RReYAnZVx9jxTOOtpLwzJBgK4WWx\/3D28C83C85544F0D9517DD2E7C7EEDAA\/il\/b1bae9a5cd964e76bc91aa552f9744b5\/938d0447c5ca4e0c9be37c2c6dc7e24a\/mobilebanners\/Resolucions_4k-1732194931266.png",
+                  "file_name" : "Resolucions_4k-1732194931266.png"
+                }
+              ]
+            },
+            "content_permalink" : "test-qa-update",
+            "content_uuid" : "6968a5962e55422ba0c617709c137b45",
+            "categories" : [
+              {
+                "category_name" : "Clinical",
+                "category_uuid" : "6f772e0d07c84e819fd75155d4722655"
+              }
+            ],
+            "posters" : {
+              "website" : [
+                {
+                  "file_uuid" : "976202a4ae2b4fd1b7c2a94497b6d986",
+                  "file_url" : "https:\/\/d1gb4r1h64ji8f.cloudfront.net\/zdJ5RReYAnZVx9jxTOOtpLwzJBgK4WWx\/3D28C83C85544F0D9517DD2E7C7EEDAA\/il\/976202a4ae2b4fd1b7c2a94497b6d986\/152df56a97e5404e80ae7157933533d5\/webposters\/Pokemon-PNG-Photo-1732194837977.png",
+                  "file_name" : "Pokemon-PNG-Photo-1732194837977.png"
+                }
+              ]
+            },
+            "root_parent_uuid" : "6968a5962e55422ba0c617709c137b45",
+            "content_asset_uuid" : "",
+            "is_free_content" : false,
+            "is_parent" : 1,
+            "audio_details" : null,
+            "level_two_count" : 0,
+            "app_token" : "zdJ5RReYAnZVx9jxTOOtpLwzJBgK4WWx"
+          }
+        ],
+        "page_info" : {
+          "total_count" : 7
+        }
+      }
+    }
+  }
