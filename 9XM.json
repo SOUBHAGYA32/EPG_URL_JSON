@@ -8,160 +8,161 @@
         "logo": "https://example.com/9xm_logo.png",
         "schedule": [
           {
-            "start_date_time": "20241204000000",
-            "end_date_time": "20241204020000",
+            "start_date_time": "20241207000000",
+            "end_date_time": "20241207020000",
             "lang": "en",
             "title": "Non-Stop Bollywood Hits",
             "description": "Enjoy back-to-back Bollywood chartbusters.",
-            "start": "2024-12-04 00:00:00",
-            "end": "2024-12-04 02:00:00"
+            "start": "2024-12-07 00:00:00",
+            "end": "2024-12-07 02:00:00"
           },
           {
-            "start_date_time": "20241204020000",
-            "end_date_time": "20241204030000",
+            "start_date_time": "20241207020000",
+            "end_date_time": "20241207030000",
             "lang": "en",
             "title": "Top 20 Countdown",
             "description": "Counting down the top 20 Bollywood hits of the week.",
-            "start": "2024-12-04 02:00:00",
-            "end": "2024-12-04 03:00:00"
+            "start": "2024-12-07 02:00:00",
+            "end": "2024-12-07 03:00:00"
           },
           {
-            "start_date_time": "20241204030000",
-            "end_date_time": "20241204050000",
+            "start_date_time": "20241207030000",
+            "end_date_time": "20241207050000",
             "lang": "en",
             "title": "Late Night Love Songs",
             "description": "Romantic tracks to set the mood for the night.",
-            "start": "2024-12-04 03:00:00",
-            "end": "2024-12-04 05:00:00"
+            "start": "2024-12-07 03:00:00",
+            "end": "2024-12-07 05:00:00"
           },
           {
-            "start_date_time": "20241204050000",
-            "end_date_time": "20241204070000",
+            "start_date_time": "20241207050000",
+            "end_date_time": "20241207070000",
             "lang": "en",
             "title": "Morning Raaga",
             "description": "A melodious start to your day with soulful tunes.",
-            "start": "2024-12-04 05:00:00",
-            "end": "2024-12-04 07:00:00"
+            "start": "2024-12-07 05:00:00",
+            "end": "2024-12-07 07:00:00"
           },
           {
-            "start_date_time": "20241204070000",
-            "end_date_time": "20241204080000",
+            "start_date_time": "20241207070000",
+            "end_date_time": "20241207080000",
             "lang": "en",
             "title": "Kids Special: Animated Hits",
             "description": "Enjoy entertaining music videos loved by kids.",
-            "start": "2024-12-04 07:00:00",
-            "end": "2024-12-04 08:00:00"
+            "start": "2024-12-07 07:00:00",
+            "end": "2024-12-07 08:00:00"
           },
           {
-            "start_date_time": "20241204080000",
-            "end_date_time": "20241204093000",
+            "start_date_time": "20241207080000",
+            "end_date_time": "20241207093000",
             "lang": "en",
             "title": "Blockbuster Beats",
             "description": "Top Bollywood beats that are making waves.",
-            "start": "2024-12-04 08:00:00",
-            "end": "2024-12-04 09:30:00"
+            "start": "2024-12-07 08:00:00",
+            "end": "2024-12-07 09:30:00"
           },
           {
-            "start_date_time": "20241204093000",
-            "end_date_time": "20241204110000",
+            "start_date_time": "20241207093000",
+            "end_date_time": "20241207110000",
             "lang": "en",
             "title": "Punjabi Tadka",
             "description": "Energetic Punjabi hits to brighten your day.",
-            "start": "2024-12-04 09:30:00",
-            "end": "2024-12-04 11:00:00"
+            "start": "2024-12-07 09:30:00",
+            "end": "2024-12-07 11:00:00"
           },
           {
-            "start_date_time": "20241204110000",
-            "end_date_time": "20241204120000",
+            "start_date_time": "20241207110000",
+            "end_date_time": "20241207120000",
             "lang": "en",
             "title": "Bollywood Unplugged",
             "description": "Soothing unplugged versions of popular Bollywood songs.",
-            "start": "2024-12-04 11:00:00",
-            "end": "2024-12-04 12:00:00"
+            "start": "2024-12-07 11:00:00",
+            "end": "2024-12-07 12:00:00"
           },
           {
-            "start_date_time": "20241204120000",
-            "end_date_time": "20241204140000",
+            "start_date_time": "20241207120000",
+            "end_date_time": "20241207140000",
             "lang": "en",
             "title": "Club Hits",
             "description": "High-energy tracks to keep you grooving.",
-            "start": "2024-12-04 12:00:00",
-            "end": "2024-12-04 14:00:00"
+            "start": "2024-12-07 12:00:00",
+            "end": "2024-12-07 14:00:00"
           },
           {
-            "start_date_time": "20241204140000",
-            "end_date_time": "20241204150000",
+            "start_date_time": "20241207140000",
+            "end_date_time": "20241207150000",
             "lang": "en",
             "title": "Viewer’s Choice",
             "description": "The most requested songs by our viewers.",
-            "start": "2024-12-04 14:00:00",
-            "end": "2024-12-04 15:00:00"
+            "start": "2024-12-07 14:00:00",
+            "end": "2024-12-07 15:00:00"
           },
           {
-            "start_date_time": "20241204150000",
-            "end_date_time": "20241204160000",
+            "start_date_time": "20241207150000",
+            "end_date_time": "20241207160000",
             "lang": "en",
             "title": "Bollywood Retro",
             "description": "A nostalgic journey through evergreen Bollywood hits.",
-            "start": "2024-12-04 15:00:00",
-            "end": "2024-12-04 16:00:00"
+            "start": "2024-12-07 15:00:00",
+            "end": "2024-12-07 16:00:00"
           },
           {
-            "start_date_time": "20241204160000",
-            "end_date_time": "20241204180000",
+            "start_date_time": "20241207160000",
+            "end_date_time": "20241207180000",
             "lang": "en",
             "title": "Evening Anthems",
             "description": "Popular tracks to elevate your evening mood.",
-            "start": "2024-12-04 16:00:00",
-            "end": "2024-12-04 18:00:00"
+            "start": "2024-12-07 16:00:00",
+            "end": "2024-12-07 18:00:00"
           },
           {
-            "start_date_time": "20241204180000",
-            "end_date_time": "20241204190000",
+            "start_date_time": "20241207180000",
+            "end_date_time": "20241207190000",
             "lang": "en",
             "title": "Exclusive Artist Showcase",
             "description": "A special spotlight on a popular artist's top hits.",
-            "start": "2024-12-04 18:00:00",
-            "end": "2024-12-04 19:00:00"
+            "start": "2024-12-07 18:00:00",
+            "end": "2024-12-07 19:00:00"
           },
           {
-            "start_date_time": "20241204190000",
-            "end_date_time": "20241204210000",
+            "start_date_time": "20241207190000",
+            "end_date_time": "20241207210000",
             "lang": "en",
             "title": "Bollywood Beats Tonight",
             "description": "An energetic mix of Bollywood party tracks.",
-            "start": "2024-12-04 19:00:00",
-            "end": "2024-12-04 21:00:00"
+            "start": "2024-12-07 19:00:00",
+            "end": "2024-12-07 21:00:00"
           },
           {
-            "start_date_time": "20241204210000",
-            "end_date_time": "20241204220000",
+            "start_date_time": "20241207210000",
+            "end_date_time": "20241207220000",
             "lang": "en",
             "title": "Top Romantic Duets",
             "description": "A collection of the most loved Bollywood duets.",
-            "start": "2024-12-04 21:00:00",
-            "end": "2024-12-04 22:00:00"
+            "start": "2024-12-07 21:00:00",
+            "end": "2024-12-07 22:00:00"
           },
           {
-            "start_date_time": "20241204220000",
-            "end_date_time": "20241204230000",
+            "start_date_time": "20241207220000",
+            "end_date_time": "20241207230000",
             "lang": "en",
             "title": "Music Trivia Show",
             "description": "Interesting facts and trivia about Bollywood music.",
-            "start": "2024-12-04 22:00:00",
-            "end": "2024-12-04 23:00:00"
+            "start": "2024-12-07 22:00:00",
+            "end": "2024-12-07 23:00:00"
           },
           {
-            "start_date_time": "20241204230000",
-            "end_date_time": "20241204235959",
+            "start_date_time": "20241207230000",
+            "end_date_time": "20241207235959",
             "lang": "en",
             "title": "Midnight Mix",
             "description": "Non-stop Bollywood tracks to keep you entertained.",
-            "start": "2024-12-04 23:00:00",
-            "end": "2024-12-04 23:59:59"
+            "start": "2024-12-07 23:00:00",
+            "end": "2024-12-07 23:59:59"
           }
         ]
       }
     ]
   }
 }
+
