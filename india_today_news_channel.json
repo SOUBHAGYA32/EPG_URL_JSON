@@ -8,157 +8,310 @@
         "logo": "https://example.com/india_today_logo.png",
         "schedule": [
           {
-            "start_date_time": "20241209000000",
-            "end_date_time": "20241209020000",
+            "start_date_time": "20241211000000",
+            "end_date_time": "20241211020000",
             "lang": "en",
             "title": "Breaking News Hour",
             "description": "Non-stop coverage of the latest breaking news.",
-            "start": "2024-12-09 00:00:00",
-            "end": "2024-12-09 02:00:00"
+            "start": "2024-12-11 00:00:00",
+            "end": "2024-12-11 02:00:00"
           },
           {
-            "start_date_time": "20241209020000",
-            "end_date_time": "20241209030000",
+            "start_date_time": "20241211020000",
+            "end_date_time": "20241211030000",
             "lang": "en",
             "title": "Prime Time Recap",
             "description": "A recap of the day's top news stories.",
-            "start": "2024-12-09 02:00:00",
-            "end": "2024-12-09 03:00:00"
+            "start": "2024-12-11 02:00:00",
+            "end": "2024-12-11 03:00:00"
           },
           {
-            "start_date_time": "20241209030000",
-            "end_date_time": "20241209050000",
+            "start_date_time": "20241211030000",
+            "end_date_time": "20241211050000",
             "lang": "en",
             "title": "World Affairs",
             "description": "In-depth analysis of international news.",
-            "start": "2024-12-09 03:00:00",
-            "end": "2024-12-09 05:00:00"
+            "start": "2024-12-11 03:00:00",
+            "end": "2024-12-11 05:00:00"
           },
           {
-            "start_date_time": "20241209050000",
-            "end_date_time": "20241209070000",
+            "start_date_time": "20241211050000",
+            "end_date_time": "20241211070000",
             "lang": "en",
             "title": "India at Dawn",
             "description": "A look at the latest news and headlines as the nation wakes up.",
-            "start": "2024-12-09 05:00:00",
-            "end": "2024-12-09 07:00:00"
+            "start": "2024-12-11 05:00:00",
+            "end": "2024-12-11 07:00:00"
           },
           {
-            "start_date_time": "20241209070000",
-            "end_date_time": "20241209080000",
+            "start_date_time": "20241211070000",
+            "end_date_time": "20241211080000",
             "lang": "en",
             "title": "Health & Wellness",
             "description": "News and tips on health and well-being.",
-            "start": "2024-12-09 07:00:00",
-            "end": "2024-12-09 08:00:00"
+            "start": "2024-12-11 07:00:00",
+            "end": "2024-12-11 08:00:00"
           },
           {
-            "start_date_time": "20241209080000",
-            "end_date_time": "20241209093000",
+            "start_date_time": "20241211080000",
+            "end_date_time": "20241211093000",
             "lang": "en",
             "title": "Morning Debate",
             "description": "Experts discuss current affairs and trending topics.",
-            "start": "2024-12-09 08:00:00",
-            "end": "2024-12-09 09:30:00"
+            "start": "2024-12-11 08:00:00",
+            "end": "2024-12-11 09:30:00"
           },
           {
-            "start_date_time": "20241209093000",
-            "end_date_time": "20241209110000",
+            "start_date_time": "20241211093000",
+            "end_date_time": "20241211110000",
             "lang": "en",
             "title": "Business Today",
             "description": "The latest business and financial news updates.",
-            "start": "2024-12-09 09:30:00",
-            "end": "2024-12-09 11:00:00"
+            "start": "2024-12-11 09:30:00",
+            "end": "2024-12-11 11:00:00"
           },
           {
-            "start_date_time": "20241209110000",
-            "end_date_time": "20241209120000",
+            "start_date_time": "20241211110000",
+            "end_date_time": "20241211120000",
             "lang": "en",
             "title": "India Votes",
             "description": "Coverage and analysis of upcoming elections.",
-            "start": "2024-12-09 11:00:00",
-            "end": "2024-12-09 12:00:00"
+            "start": "2024-12-11 11:00:00",
+            "end": "2024-12-11 12:00:00"
           },
           {
-            "start_date_time": "20241209120000",
-            "end_date_time": "20241209140000",
+            "start_date_time": "20241211120000",
+            "end_date_time": "20241211140000",
             "lang": "en",
             "title": "Lunch Bulletin",
             "description": "Midday updates on news, sports, and weather.",
-            "start": "2024-12-09 12:00:00",
-            "end": "2024-12-09 14:00:00"
+            "start": "2024-12-11 12:00:00",
+            "end": "2024-12-11 14:00:00"
           },
           {
-            "start_date_time": "20241209140000",
-            "end_date_time": "20241209150000",
+            "start_date_time": "20241211140000",
+            "end_date_time": "20241211150000",
             "lang": "en",
             "title": "Special Report",
             "description": "In-depth coverage of a key issue or event.",
-            "start": "2024-12-09 14:00:00",
-            "end": "2024-12-09 15:00:00"
+            "start": "2024-12-11 14:00:00",
+            "end": "2024-12-11 15:00:00"
           },
           {
-            "start_date_time": "20241209150000",
-            "end_date_time": "20241209160000",
+            "start_date_time": "20241211150000",
+            "end_date_time": "20241211160000",
             "lang": "en",
             "title": "Afternoon Headlines",
             "description": "Updates on top stories from across the nation.",
-            "start": "2024-12-09 15:00:00",
-            "end": "2024-12-09 16:00:00"
+            "start": "2024-12-11 15:00:00",
+            "end": "2024-12-11 16:00:00"
           },
           {
-            "start_date_time": "20241209160000",
-            "end_date_time": "20241209180000",
+            "start_date_time": "20241211160000",
+            "end_date_time": "20241211180000",
             "lang": "en",
             "title": "Sports Central",
             "description": "Highlights and updates from the world of sports.",
-            "start": "2024-12-09 16:00:00",
-            "end": "2024-12-09 18:00:00"
+            "start": "2024-12-11 16:00:00",
+            "end": "2024-12-11 18:00:00"
           },
           {
-            "start_date_time": "20241209180000",
-            "end_date_time": "20241209190000",
+            "start_date_time": "20241211180000",
+            "end_date_time": "20241211190000",
             "lang": "en",
             "title": "Evening Exclusive",
             "description": "Exclusive interviews and special features.",
-            "start": "2024-12-09 18:00:00",
-            "end": "2024-12-09 19:00:00"
+            "start": "2024-12-11 18:00:00",
+            "end": "2024-12-11 19:00:00"
           },
           {
-            "start_date_time": "20241209190000",
-            "end_date_time": "20241209210000",
+            "start_date_time": "20241211190000",
+            "end_date_time": "20241211210000",
             "lang": "en",
             "title": "Prime Time News",
             "description": "Comprehensive coverage of the day's top stories.",
-            "start": "2024-12-09 19:00:00",
-            "end": "2024-12-09 21:00:00"
+            "start": "2024-12-11 19:00:00",
+            "end": "2024-12-11 21:00:00"
           },
           {
-            "start_date_time": "20241209210000",
-            "end_date_time": "20241209220000",
+            "start_date_time": "20241211210000",
+            "end_date_time": "20241211220000",
             "lang": "en",
             "title": "Debate Tonight",
             "description": "An engaging debate on current issues.",
-            "start": "2024-12-09 21:00:00",
-            "end": "2024-12-09 22:00:00"
+            "start": "2024-12-11 21:00:00",
+            "end": "2024-12-11 22:00:00"
           },
           {
-            "start_date_time": "20241209220000",
-            "end_date_time": "20241209230000",
+            "start_date_time": "20241211220000",
+            "end_date_time": "20241211230000",
             "lang": "en",
             "title": "World News Hour",
             "description": "Global news updates and analysis.",
-            "start": "2024-12-09 22:00:00",
-            "end": "2024-12-09 23:00:00"
+            "start": "2024-12-11 22:00:00",
+            "end": "2024-12-11 23:00:00"
           },
           {
-            "start_date_time": "20241209230000",
-            "end_date_time": "20241209235959",
+            "start_date_time": "20241211230000",
+            "end_date_time": "20241211235959",
             "lang": "en",
             "title": "Nightline",
             "description": "Late-night news and updates.",
-            "start": "2024-12-09 23:00:00",
-            "end": "2024-12-09 23:59:59"
+            "start": "2024-12-11 23:00:00",
+            "end": "2024-12-11 23:59:59"
+          },
+          {
+            "start_date_time": "20241212000000",
+            "end_date_time": "20241212020000",
+            "lang": "en",
+            "title": "Breaking News Hour",
+            "description": "Non-stop coverage of the latest breaking news.",
+            "start": "2024-12-12 00:00:00",
+            "end": "2024-12-12 02:00:00"
+          },
+          {
+            "start_date_time": "20241212020000",
+            "end_date_time": "20241212030000",
+            "lang": "en",
+            "title": "Prime Time Recap",
+            "description": "A recap of the day's top news stories.",
+            "start": "2024-12-12 02:00:00",
+            "end": "2024-12-12 03:00:00"
+          },
+          {
+            "start_date_time": "20241212030000",
+            "end_date_time": "20241212050000",
+            "lang": "en",
+            "title": "World Affairs",
+            "description": "In-depth analysis of international news.",
+            "start": "2024-12-12 03:00:00",
+            "end": "2024-12-12 05:00:00"
+          },
+          {
+            "start_date_time": "20241212050000",
+            "end_date_time": "20241212070000",
+            "lang": "en",
+            "title": "India at Dawn",
+            "description": "A look at the latest news and headlines as the nation wakes up.",
+            "start": "2024-12-12 05:00:00",
+            "end": "2024-12-12 07:00:00"
+          },
+          {
+            "start_date_time": "20241212070000",
+            "end_date_time": "20241212080000",
+            "lang": "en",
+            "title": "Health & Wellness",
+            "description": "News and tips on health and well-being.",
+            "start": "2024-12-12 07:00:00",
+            "end": "2024-12-12 08:00:00"
+          },
+          {
+            "start_date_time": "20241212080000",
+            "end_date_time": "20241212093000",
+            "lang": "en",
+            "title": "Morning Debate",
+            "description": "Experts discuss current affairs and trending topics.",
+            "start": "2024-12-12 08:00:00",
+            "end": "2024-12-12 09:30:00"
+          },
+          {
+            "start_date_time": "20241212093000",
+            "end_date_time": "20241212110000",
+            "lang": "en",
+            "title": "Business Today",
+            "description": "The latest business and financial news updates.",
+            "start": "2024-12-12 09:30:00",
+            "end": "2024-12-12 11:00:00"
+          },
+          {
+            "start_date_time": "20241212110000",
+            "end_date_time": "20241212120000",
+            "lang": "en",
+            "title": "India Votes",
+            "description": "Coverage and analysis of upcoming elections.",
+            "start": "2024-12-12 11:00:00",
+            "end": "2024-12-12 12:00:00"
+          },
+          {
+            "start_date_time": "20241212120000",
+            "end_date_time": "20241212140000",
+            "lang": "en",
+            "title": "Lunch Bulletin",
+            "description": "Midday updates on news, sports, and weather.",
+            "start": "2024-12-12 12:00:00",
+            "end": "2024-12-12 14:00:00"
+          },
+          {
+            "start_date_time": "20241212140000",
+            "end_date_time": "20241212150000",
+            "lang": "en",
+            "title": "Special Report",
+            "description": "In-depth coverage of a key issue or event.",
+            "start": "2024-12-12 14:00:00",
+            "end": "2024-12-12 15:00:00"
+          },
+          {
+            "start_date_time": "20241212150000",
+            "end_date_time": "20241212160000",
+            "lang": "en",
+            "title": "Afternoon Headlines",
+            "description": "Updates on top stories from across the nation.",
+            "start": "2024-12-12 15:00:00",
+            "end": "2024-12-12 16:00:00"
+          },
+          {
+            "start_date_time": "20241212160000",
+            "end_date_time": "20241212180000",
+            "lang": "en",
+            "title": "Sports Central",
+            "description": "Highlights and updates from the world of sports.",
+            "start": "2024-12-12 16:00:00",
+            "end": "2024-12-12 18:00:00"
+          },
+          {
+            "start_date_time": "20241212180000",
+            "end_date_time": "20241212190000",
+            "lang": "en",
+            "title": "Evening Exclusive",
+            "description": "Exclusive interviews and special features.",
+            "start": "2024-12-12 18:00:00",
+            "end": "2024-12-12 19:00:00"
+          },
+          {
+            "start_date_time": "20241212190000",
+            "end_date_time": "20241212210000",
+            "lang": "en",
+            "title": "Prime Time News",
+            "description": "Comprehensive coverage of the day's top stories.",
+            "start": "2024-12-12 19:00:00",
+            "end": "2024-12-12 21:00:00"
+          },
+          {
+            "start_date_time": "20241212210000",
+            "end_date_time": "20241212220000",
+            "lang": "en",
+            "title": "Debate Tonight",
+            "description": "An engaging debate on current issues.",
+            "start": "2024-12-12 21:00:00",
+            "end": "2024-12-12 22:00:00"
+          },
+          {
+            "start_date_time": "20241212220000",
+            "end_date_time": "20241212230000",
+            "lang": "en",
+            "title": "World News Hour",
+            "description": "Global news updates and analysis.",
+            "start": "2024-12-12 22:00:00",
+            "end": "2024-12-12 23:00:00"
+          },
+          {
+            "start_date_time": "20241212230000",
+            "end_date_time": "20241212235959",
+            "lang": "en",
+            "title": "Nightline",
+            "description": "Late-night news and updates.",
+            "start": "2024-12-12 23:00:00",
+            "end": "2024-12-12 23:59:59"
           }
         ]
       }
