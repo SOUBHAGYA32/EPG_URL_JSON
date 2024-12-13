@@ -1,0 +1,93 @@
+{
+  "version": "1.0",
+  "data": {
+    "channel": [
+      {
+        "id": "pogo_channel",
+        "name": "Pogo TV",
+        "logo": "https://example.com/pogo_logo.png",
+        "schedule": [
+          {
+            "start_date_time": "20241213060000",
+            "end_date_time": "20241213070000",
+            "lang": "en",
+            "title": "Chhota Bheem",
+            "description": "Adventures of Chhota Bheem and his friends in Dholakpur.",
+            "start": "2024-12-13 06:00:00",
+            "end": "2024-12-13 07:00:00"
+          },
+          {
+            "start_date_time": "20241213070000",
+            "end_date_time": "20241213080000",
+            "lang": "en",
+            "title": "Mr. Bean: The Animated Series",
+            "description": "Hilarious antics of Mr. Bean in animated form.",
+            "start": "2024-12-13 07:00:00",
+            "end": "2024-12-13 08:00:00"
+          },
+          {
+            "start_date_time": "20241213080000",
+            "end_date_time": "20241213090000",
+            "lang": "en",
+            "title": "Kris",
+            "description": "Mythological tales with a modern twist.",
+            "start": "2024-12-13 08:00:00",
+            "end": "2024-12-13 09:00:00"
+          },
+          {
+            "start_date_time": "20241213090000",
+            "end_date_time": "20241213100000",
+            "lang": "en",
+            "title": "Tom and Jerry",
+            "description": "Classic cat-and-mouse chase.",
+            "start": "2024-12-13 09:00:00",
+            "end": "2024-12-13 10:00:00"
+          }
+        ]
+      },
+      {
+        "id": "cartoon_network",
+        "name": "Cartoon Network",
+        "logo": "https://example.com/cartoon_network_logo.png",
+        "schedule": [
+          {
+            "start_date_time": "20241213060000",
+            "end_date_time": "20241213070000",
+            "lang": "en",
+            "title": "The Amazing World of Gumball",
+            "description": "Hilarious adventures in the town of Elmore.",
+            "start": "2024-12-13 06:00:00",
+            "end": "2024-12-13 07:00:00"
+          },
+          {
+            "start_date_time": "20241213070000",
+            "end_date_time": "20241213080000",
+            "lang": "en",
+            "title": "Teen Titans Go!",
+            "description": "Comedic adventures of the Teen Titans.",
+            "start": "2024-12-13 07:00:00",
+            "end": "2024-12-13 08:00:00"
+          },
+          {
+            "start_date_time": "20241213080000",
+            "end_date_time": "20241213090000",
+            "lang": "en",
+            "title": "We Bare Bears",
+            "description": "Three bear siblings trying to fit into the human world.",
+            "start": "2024-12-13 08:00:00",
+            "end": "2024-12-13 09:00:00"
+          },
+          {
+            "start_date_time": "20241213090000",
+            "end_date_time": "20241213100000",
+            "lang": "en",
+            "title": "Scooby-Doo, Where Are You!",
+            "description": "Mystery-solving adventures of Scooby-Doo and the gang.",
+            "start": "2024-12-13 09:00:00",
+            "end": "2024-12-13 10:00:00"
+          }
+        ]
+      }
+    ]
+  }
+}
