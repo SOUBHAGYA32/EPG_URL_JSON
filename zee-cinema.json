@@ -1,0 +1,95 @@
+{
+  "version": "1.0",
+  "data": {
+    "channel": [
+      {
+        "id": "bollywood_movie_channel",
+        "name": "Bollywood Hits 24/7",
+        "logo": "https://example.com/bollywood_hits_logo.png",
+        "schedule": [
+          {
+            "start_date_time": "20241211000000",
+            "end_date_time": "20241211030000",
+            "lang": "hi",
+            "title": "Dilwale Dulhania Le Jayenge",
+            "description": "A romantic classic starring Shah Rukh Khan and Kajol.",
+            "start": "2024-12-11 00:00:00",
+            "end": "2024-12-11 03:00:00"
+          },
+          {
+            "start_date_time": "20241211030000",
+            "end_date_time": "20241211060000",
+            "lang": "hi",
+            "title": "Andaz Apna Apna",
+            "description": "A hilarious comedy featuring Aamir Khan and Salman Khan.",
+            "start": "2024-12-11 03:00:00",
+            "end": "2024-12-11 06:00:00"
+          },
+          {
+            "start_date_time": "20241211060000",
+            "end_date_time": "20241211090000",
+            "lang": "hi",
+            "title": "Kabhi Khushi Kabhie Gham",
+            "description": "A family drama with an ensemble cast including Amitabh Bachchan and Jaya Bachchan.",
+            "start": "2024-12-11 06:00:00",
+            "end": "2024-12-11 09:00:00"
+          },
+          {
+            "start_date_time": "20241211090000",
+            "end_date_time": "20241211120000",
+            "lang": "hi",
+            "title": "Chennai Express",
+            "description": "A fun-filled adventure with Shah Rukh Khan and Deepika Padukone.",
+            "start": "2024-12-11 09:00:00",
+            "end": "2024-12-11 12:00:00"
+          },
+          {
+            "start_date_time": "20241211120000",
+            "end_date_time": "20241211150000",
+            "lang": "hi",
+            "title": "3 Idiots",
+            "description": "A heartwarming tale of friendship and education featuring Aamir Khan.",
+            "start": "2024-12-11 12:00:00",
+            "end": "2024-12-11 15:00:00"
+          },
+          {
+            "start_date_time": "20241211150000",
+            "end_date_time": "20241211180000",
+            "lang": "hi",
+            "title": "Bajrangi Bhaijaan",
+            "description": "An emotional journey with Salman Khan and Harshaali Malhotra.",
+            "start": "2024-12-11 15:00:00",
+            "end": "2024-12-11 18:00:00"
+          },
+          {
+            "start_date_time": "20241211180000",
+            "end_date_time": "20241211210000",
+            "lang": "hi",
+            "title": "Queen",
+            "description": "The story of a young woman discovering herself, starring Kangana Ranaut.",
+            "start": "2024-12-11 18:00:00",
+            "end": "2024-12-11 21:00:00"
+          },
+          {
+            "start_date_time": "20241211210000",
+            "end_date_time": "20241211230000",
+            "lang": "hi",
+            "title": "Zindagi Na Milegi Dobara",
+            "description": "A coming-of-age journey with Hrithik Roshan, Farhan Akhtar, and Abhay Deol.",
+            "start": "2024-12-11 21:00:00",
+            "end": "2024-12-11 23:00:00"
+          },
+          {
+            "start_date_time": "20241211230000",
+            "end_date_time": "20241212020000",
+            "lang": "hi",
+            "title": "PK",
+            "description": "A satirical comedy-drama starring Aamir Khan and Anushka Sharma.",
+            "start": "2024-12-11 23:00:00",
+            "end": "2024-12-12 02:00:00"
+          }
+        ]
+      }
+    ]
+  }
+}
