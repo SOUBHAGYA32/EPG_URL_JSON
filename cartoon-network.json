@@ -1,0 +1,149 @@
+{
+  "version": "1.0",
+  "data": {
+    "channel": [
+      {
+        "id": "cartoon_network",
+        "name": "Cartoon Network",
+        "logo": "https://example.com/cartoon_network_logo.png",
+        "schedule": [
+          {
+            "start_date_time": "20241214060000",
+            "end_date_time": "20241214070000",
+            "lang": "en",
+            "title": "Morning Toons",
+            "description": "Start your day with classic cartoons.",
+            "start": "2024-12-14 06:00:00",
+            "end": "2024-12-14 07:00:00"
+          },
+          {
+            "start_date_time": "20241214070000",
+            "end_date_time": "20241214090000",
+            "lang": "en",
+            "title": "Adventure Time Marathon",
+            "description": "Join Finn and Jake for back-to-back adventures.",
+            "start": "2024-12-14 07:00:00",
+            "end": "2024-12-14 09:00:00"
+          },
+          {
+            "start_date_time": "20241214090000",
+            "end_date_time": "20241214110000",
+            "lang": "en",
+            "title": "Cartoon Classics",
+            "description": "Relive the golden age of animation.",
+            "start": "2024-12-14 09:00:00",
+            "end": "2024-12-14 11:00:00"
+          },
+          {
+            "start_date_time": "20241214110000",
+            "end_date_time": "20241214113000",
+            "lang": "en",
+            "title": "Gap",
+            "description": "",
+            "start": "2024-12-14 11:00:00",
+            "end": "2024-12-14 11:30:00"
+          },
+          {
+            "start_date_time": "20241214113000",
+            "end_date_time": "20241214123000",
+            "lang": "en",
+            "title": "Scooby-Doo Mysteries",
+            "description": "Scooby and the gang solve spooky mysteries.",
+            "start": "2024-12-14 11:30:00",
+            "end": "2024-12-14 12:30:00"
+          },
+          {
+            "start_date_time": "20241214123000",
+            "end_date_time": "20241214140000",
+            "lang": "en",
+            "title": "Tom and Jerry Show",
+            "description": "The classic cat and mouse chase continues.",
+            "start": "2024-12-14 12:30:00",
+            "end": "2024-12-14 14:00:00"
+          },
+          {
+            "start_date_time": "20241214140000",
+            "end_date_time": "20241214160000",
+            "lang": "en",
+            "title": "Powerpuff Girls Marathon",
+            "description": "Blossom, Bubbles, and Buttercup save the day!",
+            "start": "2024-12-14 14:00:00",
+            "end": "2024-12-14 16:00:00"
+          },
+          {
+            "start_date_time": "20241214160000",
+            "end_date_time": "20241214163000",
+            "lang": "en",
+            "title": "Gap",
+            "description": "",
+            "start": "2024-12-14 16:00:00",
+            "end": "2024-12-14 16:30:00"
+          },
+          {
+            "start_date_time": "20241214163000",
+            "end_date_time": "20241214183000",
+            "lang": "en",
+            "title": "Teen Titans Go!",
+            "description": "The Teen Titans are back with hilarious adventures.",
+            "start": "2024-12-14 16:30:00",
+            "end": "2024-12-14 18:30:00"
+          },
+          {
+            "start_date_time": "20241214183000",
+            "end_date_time": "20241214203000",
+            "lang": "en",
+            "title": "Evening Toons",
+            "description": "Wind down with an hour of fun cartoons.",
+            "start": "2024-12-14 18:30:00",
+            "end": "2024-12-14 20:30:00"
+          },
+          {
+            "start_date_time": "20241214203000",
+            "end_date_time": "20241214213000",
+            "lang": "en",
+            "title": "Gap",
+            "description": "",
+            "start": "2024-12-14 20:30:00",
+            "end": "2024-12-14 21:30:00"
+          },
+          {
+            "start_date_time": "20241214213000",
+            "end_date_time": "20241214230000",
+            "lang": "en",
+            "title": "Cartoon Movie Night",
+            "description": "Enjoy a full-length animated feature.",
+            "start": "2024-12-14 21:30:00",
+            "end": "2024-12-14 23:00:00"
+          },
+          {
+            "start_date_time": "20241214230000",
+            "end_date_time": "20241215010000",
+            "lang": "en",
+            "title": "Late Night Laughs",
+            "description": "Cartoons to keep you laughing till late.",
+            "start": "2024-12-14 23:00:00",
+            "end": "2024-12-15 01:00:00"
+          },
+          {
+            "start_date_time": "20241215010000",
+            "end_date_time": "20241215030000",
+            "lang": "en",
+            "title": "Night Owl Toons",
+            "description": "For those who love cartoons all night long.",
+            "start": "2024-12-15 01:00:00",
+            "end": "2024-12-15 03:00:00"
+          },
+          {
+            "start_date_time": "20241215030000",
+            "end_date_time": "20241215060000",
+            "lang": "en",
+            "title": "Gap",
+            "description": "",
+            "start": "2024-12-15 03:00:00",
+            "end": "2024-12-15 06:00:00"
+          }
+        ]
+      }
+    ]
+  }
+}
