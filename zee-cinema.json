@@ -8,85 +8,166 @@
         "logo": "https://example.com/bollywood_hits_logo.png",
         "schedule": [
           {
-            "start_date_time": "20241211000000",
-            "end_date_time": "20241211030000",
+            "start_date_time": "20241214000000",
+            "end_date_time": "20241214023100",
             "lang": "hi",
-            "title": "Dilwale Dulhania Le Jayenge",
-            "description": "A romantic classic starring Shah Rukh Khan and Kajol.",
-            "start": "2024-12-11 00:00:00",
-            "end": "2024-12-11 03:00:00"
+            "title": "Golmaal: Fun Unlimited",
+            "description": "A comedy riot starring Ajay Devgn, Arshad Warsi, and Sharman Joshi.",
+            "start": "2024-12-14 00:00:00",
+            "end": "2024-12-14 02:31:00"
           },
           {
-            "start_date_time": "20241211030000",
-            "end_date_time": "20241211060000",
+            "start_date_time": "20241214023100",
+            "end_date_time": "20241214052100",
             "lang": "hi",
-            "title": "Andaz Apna Apna",
-            "description": "A hilarious comedy featuring Aamir Khan and Salman Khan.",
-            "start": "2024-12-11 03:00:00",
-            "end": "2024-12-11 06:00:00"
+            "title": "Dangal",
+            "description": "The inspiring journey of a wrestler and his daughters, starring Aamir Khan.",
+            "start": "2024-12-14 02:31:00",
+            "end": "2024-12-14 05:21:00"
           },
           {
-            "start_date_time": "20241211060000",
-            "end_date_time": "20241211090000",
+            "start_date_time": "20241214052100",
+            "end_date_time": "20241214080500",
             "lang": "hi",
-            "title": "Kabhi Khushi Kabhie Gham",
-            "description": "A family drama with an ensemble cast including Amitabh Bachchan and Jaya Bachchan.",
-            "start": "2024-12-11 06:00:00",
-            "end": "2024-12-11 09:00:00"
+            "title": "Barfi!",
+            "description": "A heartwarming tale with Ranbir Kapoor and Priyanka Chopra.",
+            "start": "2024-12-14 05:21:00",
+            "end": "2024-12-14 08:05:00"
           },
           {
-            "start_date_time": "20241211090000",
-            "end_date_time": "20241211120000",
+            "start_date_time": "20241214080500",
+            "end_date_time": "20241214111700",
             "lang": "hi",
-            "title": "Chennai Express",
-            "description": "A fun-filled adventure with Shah Rukh Khan and Deepika Padukone.",
-            "start": "2024-12-11 09:00:00",
-            "end": "2024-12-11 12:00:00"
+            "title": "Padmaavat",
+            "description": "A historical epic with Deepika Padukone, Shahid Kapoor, and Ranveer Singh.",
+            "start": "2024-12-14 08:05:00",
+            "end": "2024-12-14 11:17:00"
           },
           {
-            "start_date_time": "20241211120000",
-            "end_date_time": "20241211150000",
+            "start_date_time": "20241214111700",
+            "end_date_time": "20241214134800",
             "lang": "hi",
-            "title": "3 Idiots",
-            "description": "A heartwarming tale of friendship and education featuring Aamir Khan.",
-            "start": "2024-12-11 12:00:00",
-            "end": "2024-12-11 15:00:00"
+            "title": "Jab We Met",
+            "description": "A charming love story starring Shahid Kapoor and Kareena Kapoor.",
+            "start": "2024-12-14 11:17:00",
+            "end": "2024-12-14 13:48:00"
           },
           {
-            "start_date_time": "20241211150000",
-            "end_date_time": "20241211180000",
+            "start_date_time": "20241214134800",
+            "end_date_time": "20241214163400",
             "lang": "hi",
-            "title": "Bajrangi Bhaijaan",
-            "description": "An emotional journey with Salman Khan and Harshaali Malhotra.",
-            "start": "2024-12-11 15:00:00",
-            "end": "2024-12-11 18:00:00"
+            "title": "Tanu Weds Manu",
+            "description": "A quirky romantic comedy starring Kangana Ranaut and R. Madhavan.",
+            "start": "2024-12-14 13:48:00",
+            "end": "2024-12-14 16:34:00"
           },
           {
-            "start_date_time": "20241211180000",
-            "end_date_time": "20241211210000",
+            "start_date_time": "20241214163400",
+            "end_date_time": "20241214191800",
             "lang": "hi",
-            "title": "Queen",
-            "description": "The story of a young woman discovering herself, starring Kangana Ranaut.",
-            "start": "2024-12-11 18:00:00",
-            "end": "2024-12-11 21:00:00"
+            "title": "Bajirao Mastani",
+            "description": "A tale of love and war starring Ranveer Singh and Deepika Padukone.",
+            "start": "2024-12-14 16:34:00",
+            "end": "2024-12-14 19:18:00"
           },
           {
-            "start_date_time": "20241211210000",
-            "end_date_time": "20241211230000",
+            "start_date_time": "20241214191800",
+            "end_date_time": "20241214220000",
             "lang": "hi",
-            "title": "Zindagi Na Milegi Dobara",
-            "description": "A coming-of-age journey with Hrithik Roshan, Farhan Akhtar, and Abhay Deol.",
-            "start": "2024-12-11 21:00:00",
-            "end": "2024-12-11 23:00:00"
+            "title": "Kahaani",
+            "description": "A suspense thriller starring Vidya Balan.",
+            "start": "2024-12-14 19:18:00",
+            "end": "2024-12-14 22:00:00"
           },
           {
-            "start_date_time": "20241211230000",
-            "end_date_time": "20241212020000",
+            "start_date_time": "20241214220000",
+            "end_date_time": "20241215013500",
+            "lang": "hi",
+            "title": "Raazi",
+            "description": "An espionage drama starring Alia Bhatt.",
+            "start": "2024-12-14 22:00:00",
+            "end": "2024-12-15 01:35:00"
+          },
+          {
+            "start_date_time": "20241215013500",
+            "end_date_time": "20241215041300",
+            "lang": "hi",
+            "title": "Om Shanti Om",
+            "description": "A reincarnation drama with Shah Rukh Khan and Deepika Padukone.",
+            "start": "2024-12-15 01:35:00",
+            "end": "2024-12-15 04:13:00"
+          },
+          {
+            "start_date_time": "20241215041300",
+            "end_date_time": "20241215070500",
             "lang": "hi",
             "title": "PK",
             "description": "A satirical comedy-drama starring Aamir Khan and Anushka Sharma.",
-            "start": "2024-12-11 23:00:00",
-            "end": "2024-12-12 02:00:00"
+            "start": "2024-12-15 04:13:00",
+            "end": "2024-12-15 07:05:00"
+          },
+          {
+            "start_date_time": "20241215070500",
+            "end_date_time": "20241215095000",
+            "lang": "hi",
+            "title": "Taare Zameen Par",
+            "description": "A moving story about a dyslexic child, starring Aamir Khan.",
+            "start": "2024-12-15 07:05:00",
+            "end": "2024-12-15 09:50:00"
+          },
+          {
+            "start_date_time": "20241215095000",
+            "end_date_time": "20241215130100",
+            "lang": "hi",
+            "title": "Gully Boy",
+            "description": "A coming-of-age story about a street rapper, starring Ranveer Singh.",
+            "start": "2024-12-15 09:50:00",
+            "end": "2024-12-15 13:01:00"
+          },
+          {
+            "start_date_time": "20241215130100",
+            "end_date_time": "20241215154700",
+            "lang": "hi",
+            "title": "Kesari",
+            "description": "A historical drama about the Battle of Saragarhi, starring Akshay Kumar.",
+            "start": "2024-12-15 13:01:00",
+            "end": "2024-12-15 15:47:00"
+          },
+          {
+            "start_date_time": "20241215154700",
+            "end_date_time": "20241215184500",
+            "lang": "hi",
+            "title": "Dil Chahta Hai",
+            "description": "A story of friendship and self-discovery starring Aamir Khan and Saif Ali Khan.",
+            "start": "2024-12-15 15:47:00",
+            "end": "2024-12-15 18:45:00"
+          },
+          {
+            "start_date_time": "20241215184500",
+            "end_date_time": "20241215211600",
+            "lang": "hi",
+            "title": "Dear Zindagi",
+            "description": "A slice-of-life drama with Alia Bhatt and Shah Rukh Khan.",
+            "start": "2024-12-15 18:45:00",
+            "end": "2024-12-15 21:16:00"
+          },
+          {
+            "start_date_time": "20241215211600",
+            "end_date_time": "20241215234700",
+            "lang": "hi",
+            "title": "Drishyam",
+            "description": "A gripping tale of a father protecting his family, starring Ajay Devgn.",
+            "start": "2024-12-15 21:16:00",
+            "end": "2024-12-15 23:47:00"
+          },
+          {
+            "start_date_time": "20241215234700",
+            "end_date_time": "20241216022200",
+            "lang": "hi",
+            "title": "The Lunchbox",
+            "description": "A sweet story about connections, starring Irrfan Khan.",
+            "start": "2024-12-15 23:47:00",
+            "end": "2024-12-16 02:22:00"
           }
         ]
       }
