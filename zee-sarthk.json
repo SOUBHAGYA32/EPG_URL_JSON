@@ -1,0 +1,113 @@
+{
+  "version": "1.0",
+  "data": {
+    "channel": [
+      {
+        "id": "zee_sarthak_od",
+        "name": "Zee Sarthak Odia",
+        "logo": "https://example.com/zee_sarthak_logo.png",
+        "schedule": [
+          {
+            "start_date_time": "20241216000000",
+            "end_date_time": "20241216003000",
+            "lang": "or",
+            "title": "Tu Khara Mu Chhai",
+            "description": "Episode #24: A perfectionist gets married to an easy-going clumsy woman under unusual circumstances.",
+            "start": "2024-12-16 00:00:00",
+            "end": "2024-12-16 00:30:00"
+          },
+          {
+            "start_date_time": "20241216003000",
+            "end_date_time": "20241216010000",
+            "lang": "or",
+            "title": "Madhura Sansara",
+            "description": "Episode #9: A girl gets married in a joint family and wants her husband to support her in every matter.",
+            "start": "2024-12-16 00:30:00",
+            "end": "2024-12-16 01:00:00"
+          },
+          {
+            "start_date_time": "20241216010000",
+            "end_date_time": "20241216013000",
+            "lang": "or",
+            "title": "Sandhya Ragini",
+            "description": "Jasoda adopts her niece Ragini after her estranged sister passes away.",
+            "start": "2024-12-16 01:00:00",
+            "end": "2024-12-16 01:30:00"
+          },
+          {
+            "start_date_time": "20241216013000",
+            "end_date_time": "20241216020000",
+            "lang": "or",
+            "title": "Sata Bhainka Sunanaki",
+            "description": "Episode #253: Parul vows to save her seven brothers after her stepmothers turn them into flowers.",
+            "start": "2024-12-16 01:30:00",
+            "end": "2024-12-16 02:00:00"
+          },
+          {
+            "start_date_time": "20241216020000",
+            "end_date_time": "20241216023000",
+            "lang": "or",
+            "title": "Suna Jhia",
+            "description": "Episode #13: A young woman becomes tough to protect her single mother and fulfil her dreams.",
+            "start": "2024-12-16 02:00:00",
+            "end": "2024-12-16 02:30:00"
+          },
+          {
+            "start_date_time": "20241216023000",
+            "end_date_time": "20241216030000",
+            "lang": "or",
+            "title": "Tuma Bina",
+            "description": "Episode #4: The host invites married couples for fun-filled activities and discussions on relationships.",
+            "start": "2024-12-16 02:30:00",
+            "end": "2024-12-16 03:00:00"
+          },
+          {
+            "start_date_time": "20241216030000",
+            "end_date_time": "20241216033000",
+            "lang": "or",
+            "title": "Param Avatar Sri Krishna",
+            "description": "Episode #257: Lord Krishna embarks on adventures to fight and eradicate evil forces.",
+            "start": "2024-12-16 03:00:00",
+            "end": "2024-12-16 03:30:00"
+          },
+          {
+            "start_date_time": "20241216033000",
+            "end_date_time": "20241216040000",
+            "lang": "or",
+            "title": "Sata Bhainka Sunanaki",
+            "description": "Episode #253: Parul vows to save her seven brothers after her stepmothers turn them into flowers.",
+            "start": "2024-12-16 03:30:00",
+            "end": "2024-12-16 04:00:00"
+          },
+          {
+            "start_date_time": "20241216040000",
+            "end_date_time": "20241216043000",
+            "lang": "or",
+            "title": "Mangala Alati",
+            "description": "A pooja conducted to venerate the deity with verses from scriptures.",
+            "start": "2024-12-16 04:00:00",
+            "end": "2024-12-16 04:30:00"
+          },
+          {
+            "start_date_time": "20241216043000",
+            "end_date_time": "20241216050000",
+            "lang": "or",
+            "title": "Mangala Alati",
+            "description": "A pooja conducted to venerate the deity with verses from scriptures.",
+            "start": "2024-12-16 04:30:00",
+            "end": "2024-12-16 05:00:00"
+          },
+          {
+            "start_date_time": "20241216050000",
+            "end_date_time": "20241216063000",
+            "lang": "or",
+            "title": "Patanjali Yoga",
+            "description": "Episode #540: A yoga guru teaches various asanas to stay mentally and physically fit.",
+            "start": "2024-12-16 05:00:00",
+            "end": "2024-12-16 06:30:00"
+          }
+        ]
+      }
+    ]
+  }
+}
